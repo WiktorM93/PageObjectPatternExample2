@@ -2,7 +2,7 @@
 
 # Kilka ważnych informacji
 
-Przed przystąpieniem do rozwiązywania zadań przeczytaj poniższe wskazówki
+Przed przystąpieniem do rozwiązania zadań przeczytaj poniższe wskazówki
 
 ## Jak zacząć?
 
